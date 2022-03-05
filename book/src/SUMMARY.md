@@ -8,6 +8,7 @@
 - [Common patterns](./common_patterns.md)
   - [Selection](./common_patterns/selection.md)
   - [On-demand (Lazy) inputs](./common_patterns/on_demand_inputs.md)
+- [Tuning](./tuning.md)
 - [Cycle handling](./cycles.md)
   - [Recovering via fallback](./cycles/fallback.md)
 
@@ -54,6 +55,7 @@
   - [RFC 0007: Opinionated cancelation](./rfcs/RFC0007-Opinionated-Cancelation.md)
   - [RFC 0008: Remove garbage collection](./rfcs/RFC0008-Remove-Garbage-Collection.md)
   - [RFC 0009: Cycle recovery](./rfcs/RFC0009-Cycle-recovery.md)
+  - [RFC 0010: Slot no more](./rfcs/RFC0010-Slot-no-more.md)
 
 # Appendices
 
